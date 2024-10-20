@@ -73,10 +73,10 @@ a {
   font-weight: bold;
 }
 .weather-app-icon {
-  font-size: 35px;
-  margin-top: 22px;
+  height: 44px;
+  margin-top: 15px;
 }
 .weather-app-unit {
-  margin-top: 18px;
+  margin-top: 8px;
   font-size: 28px;
 }
